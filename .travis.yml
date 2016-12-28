@@ -5,3 +5,6 @@ node_js:
   - "7"
 
 cache: yarn
+after_success:
+  - yarn add coveralls
+  - yarn run coverage -- --reporter=text-lcov | ./node_modules/.bin/coveralls

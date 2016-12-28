@@ -1,4 +1,4 @@
-import test from 'tape'
+import { test } from 'tap'
 import React from 'react'
 import { shallow } from 'enzyme'
 import JSONTree from 'react-json-tree'
