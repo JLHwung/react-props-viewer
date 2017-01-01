@@ -26,3 +26,9 @@ test('shallow', (t) => {
   t.equal(wrapper.contains(<JSONTree data={props} />), true)
   t.end()
 })
+
+test('props-viewer should throw when name is not a string', (t) => {
+  t.throws(() => PropsViewer(), 'expected name to be a string')
+  t.throws(() => PropsViewer(43), 'expected name to be a string')
+  t.end()
+})
