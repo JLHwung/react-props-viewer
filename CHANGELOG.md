@@ -1,3 +1,12 @@
+#### 0.2.1 (2017-1-17)
+
+##### Chores
+
+* **package:**
+  * update react-json-tree to version 0.10.1 (f34f831a)
+  * update tap to version 9.0.3 (a76c35ae)
+  * update tap to version 9.0.1 (7e533def)
+
 ### 0.2.0 (2017-1-1)
 
 ##### Documentation Changes
