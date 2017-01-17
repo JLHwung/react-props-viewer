@@ -1,6 +1,6 @@
 {
   "name": "react-props-viewer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A react high order component to generate props viewer",
   "main": "lib/index.js",
   "repository": "https://github.com/JLHwung/react-props-viewer.git",
