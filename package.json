@@ -35,7 +35,7 @@
     "react-addons-test-utils": "^15.4.1",
     "react-dom": "^15.4.1",
     "rimraf": "^2.5.4",
-    "standard": "^8.6.0",
+    "standard": "^9.0.2",
     "tap": "^10.0.1"
   },
   "pre-commit": "lint"
