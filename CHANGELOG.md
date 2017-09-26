@@ -1,3 +1,32 @@
+### 0.3.0 (2017-09-26)
+
+##### Chores
+
+* **travis:**
+  * add node_js 8 as test target (0053718a)
+  * add greenkeeper lockfile (76e3ddc5)
+* **package:**
+  * add react-test-renderer (8ec9af28)
+  * change prepublish to prepublishOnly (6abf6173)
+  * remove peerDependencies of react (f8c91a65)
+  * upgrade deps (8a90c19f)
+  * update lockfile (48689b7e)
+  * update enzyme to version 3.0.0 (42193637)
+  * update nyc to version 11.1.0 (d40f068e)
+  * update cross-env to version 5.0.0 (43703d62)
+  * upgrade dependencies (6a002990)
+  * update standard to version 10.0.0 (bb45f20f)
+  * update babel-preset-env to version 1.3.2 (4a70c7e5)
+  * update cross-env to version 4.0.0 (e7a3c304)
+  * update babel-plugin-istanbul to version 4.1.1 (73fbf929)
+  * update standard to version 9.0.2 (5fb50556)
+  * update cross-env to version 3.2.4 (55430747)
+  * update tap to version 10.0.1 (06c4e017)
+
+##### Tests
+
+* **index:** adapt to enzyme 3.0 API usage (1eea451b)
+
 #### 0.2.1 (2017-1-17)
 
 ##### Chores
