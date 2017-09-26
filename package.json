@@ -12,13 +12,10 @@
     "lint": "standard",
     "test": "cross-env NODE_ENV=test nyc tap test/index.spec.js",
     "coverage": "nyc report",
-    "prepublish": "npm run lint && npm run test && npm run clean && npm run build"
+    "prepublishOnly": "npm run lint && npm run test && npm run clean && npm run build"
   },
   "dependencies": {
     "react-json-tree": "^0.10.9"
-  },
-  "peerDependencies": {
-    "react": "^15.4.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -28,12 +25,14 @@
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.24.1",
     "cross-env": "^5.0.0",
-    "enzyme": "^2.8.2",
+    "enzyme": "^3.0.0",
+    "enzyme-adapter-react-15": "^1.0.0",
     "nyc": "^11.1.0",
     "pre-commit": "^1.2.2",
-    "react": "^15.5.4",
+    "react": "^15.6.2",
     "react-addons-test-utils": "^15.5.1",
     "react-dom": "^15.5.4",
+    "react-test-renderer": "^15.6.2",
     "rimraf": "^2.6.1",
     "standard": "^10.0.2",
     "tap": "^10.3.2"
