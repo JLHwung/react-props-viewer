@@ -28,7 +28,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.24.1",
     "cross-env": "^5.0.0",
-    "enzyme": "^2.8.2",
+    "enzyme": "^3.0.0",
     "nyc": "^11.1.0",
     "pre-commit": "^1.2.2",
     "react": "^15.5.4",
