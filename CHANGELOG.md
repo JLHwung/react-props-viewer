@@ -1,3 +1,19 @@
+## 1.0.0 (2017-11-30)
+
+##### Chores
+
+* **package:**
+  * update tap to version 11.0.0 (410582bb)
+  * update lockfile (8110a269)
+
+##### Bug Fixes
+
+* **(BREAKING)package:** update react-json-tree to version 0.11.0 (88fed3bc)
+
+##### Tests
+
+* **(BREAKING)index:** test against react 16 (09bbc832)
+
 ### 0.3.0 (2017-09-26)
 
 ##### Chores
