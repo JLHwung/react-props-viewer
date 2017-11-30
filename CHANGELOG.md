@@ -1,3 +1,9 @@
+#### 1.0.1 (2017-11-30)
+
+##### Chores
+
+* **package:** ignore yarn lockfile on npm publish (18d4053f)
+
 ## 1.0.0 (2017-11-30)
 
 ##### Chores
