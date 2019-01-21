@@ -4683,9 +4683,9 @@ tap-parser@^7.0.0:
     js-yaml "^3.2.7"
     minipass "^2.2.0"
 
-tap@12.1.1:
-  version "12.1.1"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-12.1.1.tgz#e362237b78ac446027038b7326fee1e561519fa2"
+tap@12.1.2:
+  version "12.1.2"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-12.1.2.tgz#b6e6af4ded7be65813ceeb4d451c405b34fdfa53"
   dependencies:
     bind-obj-methods "^2.0.0"
     bluebird "^3.5.3"
