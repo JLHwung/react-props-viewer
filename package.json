@@ -34,7 +34,7 @@
     "react-test-renderer": "16.8.1",
     "rimraf": "2.6.3",
     "standard": "12.0.1",
-    "tap": "12.5.1"
+    "tap": "12.5.2"
   },
   "pre-commit": "lint"
 }
