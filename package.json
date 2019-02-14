@@ -27,7 +27,7 @@
     "cross-env": "5.2.0",
     "enzyme": "3.8.0",
     "enzyme-adapter-react-16": "1.9.1",
-    "nyc": "13.2.0",
+    "nyc": "13.3.0",
     "pre-commit": "1.2.2",
     "react": "16.8.2",
     "react-dom": "16.8.2",
