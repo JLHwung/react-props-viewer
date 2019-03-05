@@ -29,9 +29,9 @@
     "enzyme-adapter-react-16": "1.10.0",
     "nyc": "13.3.0",
     "pre-commit": "1.2.2",
-    "react": "16.8.3",
-    "react-dom": "16.8.3",
-    "react-test-renderer": "16.8.3",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-test-renderer": "16.8.4",
     "rimraf": "2.6.3",
     "standard": "12.0.1",
     "tap": "12.5.3"
