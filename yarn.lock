@@ -4251,9 +4251,9 @@ tap-parser@^7.0.0:
     js-yaml "^3.2.7"
     minipass "^2.2.0"
 
-tap@12.6.3:
-  version "12.6.3"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-12.6.3.tgz#1a34800c16ad9d89c531d84fe6a05788f01dc6c0"
+tap@12.6.4:
+  version "12.6.4"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-12.6.4.tgz#c5932be3acda6cd996c6500375a0329bf52165cf"
   dependencies:
     bind-obj-methods "^2.0.0"
     browser-process-hrtime "^1.0.0"
