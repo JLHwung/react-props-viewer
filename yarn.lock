@@ -1730,6 +1730,10 @@ diff@^3.1.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/diff/-/diff-3.5.0.tgz#800c0dd1e0a8bfbc95835c202ad220fe317e5a12"
 
+diff@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.1.tgz#0c667cb467ebbb5cea7f14f135cc2dba7780a8ff"
+
 discontinuous-range@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/discontinuous-range/-/discontinuous-range-1.0.0.tgz#e38331f0844bba49b9a9cb71c771585aab1bc65a"
@@ -5248,9 +5252,9 @@ tap-parser@^9.3.2:
   dependencies:
     yaml "^1.5.0"
 
-tap@13.0.3:
-  version "13.0.3"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-13.0.3.tgz#0f62fc3fb3f8ffe30a3428d39d2d45413e756615"
+tap@13.0.4:
+  version "13.0.4"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-13.0.4.tgz#0918fd5e5f914d2dccc8c26d53ea161d60ee7a5f"
   dependencies:
     async-hook-domain "^1.1.0"
     bind-obj-methods "^2.0.0"
@@ -5259,6 +5263,7 @@ tap@13.0.3:
     chokidar "^2.1.5"
     color-support "^1.1.0"
     coveralls "^3.0.3"
+    diff "^4.0.1"
     domain-browser "^1.2.0"
     esm "^3.2.22"
     findit "^2.0.0"
