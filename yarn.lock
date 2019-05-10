@@ -4608,9 +4608,9 @@ tap-parser@^9.3.2:
   dependencies:
     yaml "^1.5.0"
 
-tap@13.1.6:
-  version "13.1.6"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-13.1.6.tgz#fdd2c2f3eef02575b78b58fc56403ff0c1059430"
+tap@13.1.7:
+  version "13.1.7"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-13.1.7.tgz#4ebc7c5b921937d61205c6753720a320b7cc9f2e"
   dependencies:
     async-hook-domain "^1.1.0"
     bind-obj-methods "^2.0.0"
