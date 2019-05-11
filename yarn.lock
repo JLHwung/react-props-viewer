@@ -4608,9 +4608,9 @@ tap-parser@^9.3.2:
   dependencies:
     yaml "^1.5.0"
 
-tap@13.1.7:
-  version "13.1.7"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-13.1.7.tgz#4ebc7c5b921937d61205c6753720a320b7cc9f2e"
+tap@13.1.8:
+  version "13.1.8"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-13.1.8.tgz#497ad2fd5d1f25fb88bae02a373830b75729e554"
   dependencies:
     async-hook-domain "^1.1.0"
     bind-obj-methods "^2.0.0"
@@ -4644,7 +4644,7 @@ tap@13.1.7:
     tap-mocha-reporter "^4.0.1"
     tap-parser "^9.3.2"
     tap-yaml "^1.0.0"
-    tcompare "^2.2.0"
+    tcompare "^2.3.0"
     treport "^0.3.0"
     trivial-deferred "^1.0.1"
     ts-node "^8.1.0"
@@ -4675,9 +4675,9 @@ tar@~2.2.1:
     fstream "^1.0.2"
     inherits "2"
 
-tcompare@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/tcompare/-/tcompare-2.2.0.tgz#873b20a54917f4e91789e2bc20e2c85c4476f754"
+tcompare@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/tcompare/-/tcompare-2.3.0.tgz#4f5ab56a4ab248ee2b8cc496e0675d47b4264fde"
 
 test-exclude@^5.2.3:
   version "5.2.3"
