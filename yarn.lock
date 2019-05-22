@@ -4609,9 +4609,9 @@ tap-parser@^9.3.2:
   dependencies:
     yaml "^1.5.0"
 
-tap@14.1.6:
-  version "14.1.6"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-14.1.6.tgz#11f414dbd09374f33dbe0822f0e2898190bcfe01"
+tap@14.1.7:
+  version "14.1.7"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-14.1.7.tgz#56e3c68905f65b1a124b7b4ba2d487997ff8f6bb"
   dependencies:
     async-hook-domain "^1.1.0"
     bind-obj-methods "^2.0.0"
@@ -4646,7 +4646,7 @@ tap@14.1.6:
     tap-parser "^9.3.2"
     tap-yaml "^1.0.0"
     tcompare "^2.3.0"
-    treport "^0.3.0"
+    treport "^0.4.0"
     trivial-deferred "^1.0.1"
     ts-node "^8.1.0"
     typescript "^3.4.5"
@@ -4734,9 +4734,9 @@ tough-cookie@~2.4.3:
     psl "^1.1.24"
     punycode "^1.4.1"
 
-treport@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/treport/-/treport-0.3.0.tgz#023d7409ba236f0428d8b0acf3bb7678355d146f"
+treport@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/treport/-/treport-0.4.0.tgz#23416de91294f08f0acb3774fa45ece31a348e0e"
   dependencies:
     cardinal "^2.1.1"
     chalk "^2.4.2"
