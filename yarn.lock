@@ -1379,9 +1379,9 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-coveralls@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/coveralls/-/coveralls-3.0.3.tgz#83b1c64aea1c6afa69beaf50b55ac1bc4d13e2b8"
+coveralls@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/coveralls/-/coveralls-3.0.4.tgz#f50233c9c62fd0973f710fce85fd19dba24cff4b"
   dependencies:
     growl "~> 1.10.0"
     js-yaml "^3.11.0"
@@ -2117,15 +2117,15 @@ flat-cache@^1.2.1:
     graceful-fs "^4.1.2"
     write "^0.2.1"
 
-flow-parser@^0.100.0:
-  version "0.100.0"
-  resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.100.0.tgz#203eba9389fe96c21557e4c7d1ee69d863f6a7fe"
+flow-parser@^0.101.0:
+  version "0.101.1"
+  resolved "https://registry.yarnpkg.com/flow-parser/-/flow-parser-0.101.1.tgz#06bf99f73c39cfa6ad0c69f1eb101dc7a4bf4f7d"
 
-flow-remove-types@^2.100.0:
-  version "2.100.0"
-  resolved "https://registry.yarnpkg.com/flow-remove-types/-/flow-remove-types-2.100.0.tgz#2f07ac1babad70e74a023327429ec3decc2096f7"
+flow-remove-types@^2.101.0:
+  version "2.101.0"
+  resolved "https://registry.yarnpkg.com/flow-remove-types/-/flow-remove-types-2.101.0.tgz#6352e47f8ea6f784cd1bf62f6a3c30045e36f57e"
   dependencies:
-    flow-parser "^0.100.0"
+    flow-parser "^0.101.0"
     pirates "^3.0.2"
     vlq "^0.2.1"
 
@@ -2555,9 +2555,9 @@ ini@~1.3.0:
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.4.tgz#0537cb79daf59b59a1a517dff706c86ec039162e"
 
-ink@*:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/ink/-/ink-2.2.0.tgz#8231cbaf03799634cb333ec4e461f50e25e93fc0"
+ink@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/ink/-/ink-2.1.1.tgz#efb2adbd30be79b4f640d7c67b524bfb030205ba"
   dependencies:
     "@types/react" "^16.8.6"
     arrify "^1.0.1"
@@ -2578,9 +2578,9 @@ ink@*:
     wrap-ansi "^5.0.0"
     yoga-layout-prebuilt "^1.9.3"
 
-ink@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/ink/-/ink-2.1.1.tgz#efb2adbd30be79b4f640d7c67b524bfb030205ba"
+ink@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/ink/-/ink-2.2.0.tgz#8231cbaf03799634cb333ec4e461f50e25e93fc0"
   dependencies:
     "@types/react" "^16.8.6"
     arrify "^1.0.1"
@@ -4620,9 +4620,9 @@ tap-parser@^9.3.2:
   dependencies:
     yaml "^1.5.0"
 
-tap@14.2.4:
-  version "14.2.4"
-  resolved "https://registry.yarnpkg.com/tap/-/tap-14.2.4.tgz#7eec5c717716e6801be732c992dd6fb9f705495f"
+tap@14.2.5:
+  version "14.2.5"
+  resolved "https://registry.yarnpkg.com/tap/-/tap-14.2.5.tgz#2e00421185fd6f81b70c2c9271257df4612f2b07"
   dependencies:
     async-hook-domain "^1.1.0"
     bind-obj-methods "^2.0.0"
@@ -4630,17 +4630,17 @@ tap@14.2.4:
     capture-stack-trace "^1.0.0"
     chokidar "^3.0.1"
     color-support "^1.1.0"
-    coveralls "^3.0.3"
+    coveralls "^3.0.4"
     diff "^4.0.1"
     esm "^3.2.25"
     findit "^2.0.0"
-    flow-remove-types "^2.100.0"
+    flow-remove-types "^2.101.0"
     foreground-child "^1.3.3"
     fs-exists-cached "^1.0.0"
     function-loop "^1.0.2"
     glob "^7.1.4"
     import-jsx "^2.0.0"
-    ink "*"
+    ink "^2.2.0"
     isexe "^2.0.0"
     istanbul-lib-processinfo "^1.0.0"
     jackspeak "^1.4.0"
@@ -4661,8 +4661,8 @@ tap@14.2.4:
     tcompare "^2.3.0"
     treport "^0.4.0"
     trivial-deferred "^1.0.1"
-    ts-node "^8.2.0"
-    typescript "^3.5.1"
+    ts-node "^8.3.0"
+    typescript "^3.5.2"
     which "^1.3.1"
     write-file-atomic "^3.0.0"
     yaml "^1.6.0"
@@ -4769,9 +4769,9 @@ trivial-deferred@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/trivial-deferred/-/trivial-deferred-1.0.1.tgz#376d4d29d951d6368a6f7a0ae85c2f4d5e0658f3"
 
-ts-node@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-8.2.0.tgz#4a89754b00560bb24cd54526e1685fa38c45f240"
+ts-node@^8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-8.3.0.tgz#e4059618411371924a1fb5f3b125915f324efb57"
   dependencies:
     arg "^4.1.0"
     diff "^4.0.1"
@@ -4809,9 +4809,9 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typescript@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.1.tgz#ba72a6a600b2158139c5dd8850f700e231464202"
+typescript@^3.5.2:
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.2.tgz#a09e1dc69bc9551cadf17dba10ee42cf55e5d56c"
 
 ua-parser-js@^0.7.9:
   version "0.7.12"
