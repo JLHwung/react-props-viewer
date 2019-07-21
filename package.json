@@ -33,7 +33,7 @@
     "react-dom": "16.8.6",
     "react-test-renderer": "16.8.6",
     "rimraf": "2.6.3",
-    "standard": "13.0.2",
+    "standard": "13.1.0",
     "tap": "14.4.2"
   },
   "pre-commit": "lint"
